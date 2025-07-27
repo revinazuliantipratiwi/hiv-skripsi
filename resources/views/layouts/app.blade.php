@@ -76,7 +76,7 @@
                     <li class="nav-item"><a class="nav-link" href="{{ route('peta') }}">Peta </a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('informasi') }}">Informasi HIV</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('panduan') }}">Panduan</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{ route('FAQs') }}">FAQs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ route('faqs') }}">FAQs</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('kontak') }}">Kontak Layanan</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Login</a></li>
                 </ul>
