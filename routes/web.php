@@ -22,7 +22,7 @@ Route::get('/', fn() => view('index'))->name('index');
 Route::get('/peta', [PetaControlleruser::class, 'index'])->name('peta');
 Route::view('/informasi', 'informasi')->name('informasi');
 Route::view('/panduan', 'panduan')->name('panduan');
-Route::view('/FAQs', 'FAQs')->name('FAQs');
+Route::view('/faqs', 'faqs')->name('faqs');
 Route::view('/kontak', 'kontak')->name('kontak');
 
 /** 🔐 Login & Auth **/
